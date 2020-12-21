@@ -1,0 +1,22 @@
+{
+  "name": "nova-signature-email",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "mjml --watch src/index.mjml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nova974/nova-signature-email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nova974/nova-signature-email/issues"
+  },
+  "homepage": "https://github.com/nova974/nova-signature-email#readme",
+  "dependencies": {
+    "mjml": "^4.7.1"
+  }
+}
